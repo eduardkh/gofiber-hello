@@ -18,6 +18,10 @@
 
 `docker build -t eduardkh/gofiber:latest .`
 
+>for raspberry pi version (better build on raspberry pi)
+
+**`docker build --platform linux/arm/v7 -t eduardkh/gofiber-arm:v0.1 .`**
+
 `docker push eduardkh/gofiber:v0.1`
 
 `docker push eduardkh/gofiber:latest`
