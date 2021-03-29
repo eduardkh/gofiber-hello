@@ -1,3 +1,4 @@
+# based on https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j#dockerfile-for-the-fiber-app
 FROM golang:alpine AS Builder
 RUN mkdir /src
 COPY /src /src

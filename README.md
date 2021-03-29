@@ -1,19 +1,28 @@
-# Gofiber Hello World
-
+# Gofiber Hello World (Dockerized)
+## Write the Application
 >initiate a go project
 
-`
-go mod init github.com/eduardkh/gofiber-hello
-`
-
+`go mod init github.com/eduardkh/gofiber-hello`
 > get the framework
 
-`
-go get github.com/gofiber/fiber/v2
-`
+`go get github.com/gofiber/fiber/v2`
+> test the app locally
+> 
+`go run main.go`
+## Dockerization
+> Build and Upload the Application
 
-> test the app
+`docker login`
 
-`
-go run main.go
-`
+`docker build -t eduardkh/gofiber:v0.1 .`
+
+`docker build -t eduardkh/gofiber:latest .`
+
+`docker push eduardkh/gofiber:v0.1`
+
+`docker push eduardkh/gofiber:latest`
+> Run the Application
+
+`docker pull eduardkh/gofiber`
+
+`docker run -p 80:80 eduardkh/gofiber:latest`
