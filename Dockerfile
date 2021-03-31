@@ -9,6 +9,7 @@ RUN go build -o app .
 # RUN env GOOS=linux GOARCH=arm GOARM=7 go build -o app .
 
 FROM alpine:latest AS Final
+COPY  /src/public /app/public
 COPY --from=Builder /src/app /app/app
 WORKDIR /app
 CMD ["/app/app"]
