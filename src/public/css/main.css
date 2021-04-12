@@ -594,32 +594,32 @@ body {
 .v27_7 {
     width: 83px;
     color: rgba(42, 174, 230, 1);
-    position: absolute;
-    top: 46px;
-    left: 48px;
+    position: relative;
+    top: 0.3em;
+    left: 1em;
     font-family: 'Roboto', sans-serif;
     font-weight: Bold;
-    font-size: 16px;
+    font-size: 1.6em;
     opacity: 1;
     text-align: left;
 }
 
 .v1_6 {
-    width: 197px;
+    /* width: 197px; */
     color: rgba(16, 18, 20, 1);
-    position: absolute;
-    top: 22px;
-    left: 48px;
+    position: relative;
+    top: 0.45em;
+    left: 1em;
     font-family: 'Roboto', sans-serif;
-    font-weight: Regular;
-    font-size: 24px;
+    font-weight: regular;
+    font-size: 1.5em;
     opacity: 1;
     text-align: left;
 }
 
 .v3_0 {
-    width: 595px;
-    height: 4px;
+    width: 60em;
+    height: 0.5em;
     background: rgba(42, 174, 231, 1);
     opacity: 1;
     position: relative;
