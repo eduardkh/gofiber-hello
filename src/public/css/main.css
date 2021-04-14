@@ -2,8 +2,13 @@
     box-sizing: border-box;
 }
 
-/* *{border: 2px solid rgb(204, 31, 31)} */
-*{font-family: 'Roboto', sans-serif;}
+/* * {
+    border: 1px solid rgb(204, 31, 31)
+} */
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
 
 
 body {
@@ -458,17 +463,17 @@ body {
 }
 
 .v42_2 {
-    width: 325px;
-    height: 37px;
+    /* width: 325px; */
+    height: 2.5em;
     background: url("../images/v42_2.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
-    position: absolute;
-    top: 81px;
-    left: 49px;
-    overflow: hidden;
+    position: relative;
+    top: 1em;
+    left: 1.5em;
+    /* overflow: hidden; */
 }
 
 .v20_49 {
@@ -618,7 +623,7 @@ body {
 }
 
 .v3_0 {
-    width: 60em;
+    /* width: 75em; */
     height: 0.5em;
     background: rgba(42, 174, 231, 1);
     opacity: 1;
