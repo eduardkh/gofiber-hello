@@ -295,16 +295,16 @@ body {
 }
 
 .v20_41 {
-    width: 335px;
-    height: 149px;
+    /* width: 335px; */
+    height: 10em;
     background: url("../images/v20_41.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
-    position: absolute;
-    top: 505px;
-    left: 47px;
+    position: relative;
+    top: 3em;
+    left: 1.5em;
     overflow: hidden;
 }
 
@@ -350,17 +350,16 @@ body {
 }
 
 .v20_42 {
-    width: 335px;
-    height: 349px;
+    height: 22em;
     background: url("../images/v20_42.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
-    position: absolute;
-    top: 140px;
-    left: 48px;
-    overflow: hidden;
+    position: relative;
+    top: 2em;
+    left: 1.5em;
+    /* overflow: hidden; */
 }
 
 .v1_4 {
