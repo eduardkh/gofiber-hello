@@ -516,6 +516,13 @@ body {
     text-align: left;
 }
 
+.v20_47:hover {
+    background-color: rgba(42, 174, 230, 1);
+    opacity: 0.8;
+    text-decoration: underline;
+    border-radius: 0.3em;
+}
+
 .v20_44 {
     width: 11px;
     height: 11px;
@@ -543,6 +550,13 @@ body {
     text-align: left;
 }
 
+.v20_50:hover {
+    background-color: rgba(42, 174, 230, 1);
+    opacity: 0.8;
+    text-decoration: underline;
+    border-radius: 0.3em;
+}
+
 .v20_46 {
     width: 11px;
     height: 11px;
@@ -568,6 +582,13 @@ body {
     font-size: 11px;
     opacity: 1;
     text-align: left;
+}
+
+.v20_48:hover {
+    background-color: rgba(42, 174, 230, 1);
+    opacity: 0.8;
+    text-decoration: underline;
+    border-radius: 0.3em;
 }
 
 .v20_45 {
