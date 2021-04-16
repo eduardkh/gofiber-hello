@@ -27,17 +27,15 @@ body {
 }
 
 .v34_2 {
-    width: 349px;
     height: 62px;
     background: url("../images/v34_2.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
-    position: absolute;
-    top: 748px;
-    left: 49px;
-    overflow: hidden;
+    position: relative;
+    top: 3em;
+    left: 1.5em;
 }
 
 .v27_9 {
@@ -140,17 +138,15 @@ body {
 }
 
 .v20_25 {
-    width: 349px;
     height: 62px;
     background: url("../images/v20_25.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
-    position: absolute;
-    top: 675px;
-    left: 44px;
-    overflow: hidden;
+    position: relative;
+    top: 3em;
+    left: 1.5em;
 }
 
 .v20_2 {
@@ -605,15 +601,11 @@ body {
 }
 
 .v1_5 {
-    width: 99px;
-    height: 99px;
-    background: url("../images/v1_5.png");
     opacity: 1;
-    position: absolute;
-    top: 22px;
-    left: 400px;
+    position: relative;
+    top: 0.45em;
+    left: 1.5em;
     border-radius: 50%;
-    box-shadow: 0px 2px 4px rgba(0.062745101749897, 0.07058823853731155, 0.0784313753247261, 0.07999999821186066);
 }
 
 .v27_7 {
