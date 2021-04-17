@@ -235,16 +235,14 @@ body {
 }
 
 .v20_54 {
-    width: 140px;
-    height: 546px;
-    background: url("../images/v20_54.png");
+    height: 38em;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
-    position: absolute;
-    top: 280px;
-    left: 400px;
+    position: relative;
+    top: 1.5em;
+    left: 1.5em;
     overflow: hidden;
 }
 
@@ -254,7 +252,6 @@ body {
     position: absolute;
     top: 22px;
     left: 0px;
-    font-size: 11px;
     opacity: 1;
     text-align: left;
 }
@@ -400,28 +397,24 @@ body {
 }
 
 .v20_53 {
-    width: 141px;
-    height: 129px;
-    background: url("../images/v20_53.png");
+    height:  9em;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     opacity: 1;
-    position: absolute;
-    top: 140px;
-    left: 400px;
+    position: relative;
+    top: 1.5em;
+    left: 1.5em;
     overflow: hidden;
 }
 
 .v14_10 {
-    width: 140px;
     color: rgba(16, 18, 20, 1);
     position: absolute;
     top: 21px;
     left: 1px;
     font-family: 'Roboto', sans-serif;
     font-weight: Regular;
-    font-size: 11px;
     opacity: 1;
     text-align: left;
 }
