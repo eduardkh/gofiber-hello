@@ -238,22 +238,11 @@ li {
 }
 
 .education {
-    height: 15em;
+    height: 23em;
     position: relative;
     top: 5em;
     left: 1.5em;
 }
-
-.v14_2 {
-    width: 209px;
-    color: url("../images/v14_2.png");
-    position: absolute;
-    top: 21px;
-    left: 1px;
-    opacity: 1;
-    text-align: left;
-}
-
 
 .v14_5 {
     width: 335px;
