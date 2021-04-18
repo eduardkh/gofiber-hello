@@ -386,22 +386,12 @@ li {
     border-radius: 50%;
 }
 
-.v20_53 {
+.summary {
     height: 9em;
     opacity: 1;
     position: relative;
     top: 1.5em;
     left: 1.5em;
-}
-
-.v14_10 {
-    color: rgba(16, 18, 20, 1);
-    position: absolute;
-    top: 21px;
-    left: 1px;
-    font-weight: 400;
-    opacity: 1;
-    text-align: left;
 }
 
 .v14_7 {
