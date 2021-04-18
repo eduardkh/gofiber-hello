@@ -231,6 +231,18 @@ li {
     font-size: 12pt;
 }
 
+.no_bullet {
+    list-style-type: none;
+    margin-left: -15px;
+    text-decoration: underline;
+}
+
+.skills_blue_headings {
+    color: #2AAEE7;
+    font-weight: bold;
+    font-size: 11pt;
+}
+
 .timestamp {
     color: #73808D;
     font-weight: 400;
@@ -408,20 +420,10 @@ li {
     overflow: hidden;
 }
 
-.v20_54 {
-    height: 38em;
+.skills {
+    height: 48em;
     opacity: 1;
     position: relative;
     top: 1.5em;
     left: 1.5em;
-}
-
-.v1_3 {
-    width: 140px;
-    color: url("../images/v1_3.png");
-    position: absolute;
-    top: 22px;
-    left: 0px;
-    opacity: 1;
-    text-align: left;
 }
