@@ -51,43 +51,26 @@ li {
 }
 
 .v42_2 {
-    /* width: 325px; */
-    height: 2.5em;
-    background: url("../images/v42_2.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
+    height: 7em;
     opacity: 1;
     position: relative;
-    top: 1em;
+    top: 1.5em;
     left: 1.5em;
-    /* overflow: hidden; */
 }
 
-.v20_49 {
-    width: 102px;
+.contact_info_text_R {
     color: rgba(0, 0, 0, 1);
-    position: absolute;
-    top: 0px;
-    left: 172px;
     font-weight: 400;
-    font-size: 11px;
-    opacity: 1;
+    font-size: 11pt;
     text-align: left;
+    margin-left: 12em;
 }
 
-.v20_43 {
-    width: 11px;
-    height: 11px;
-    background: url("../images/v20_43.png");
-    background-repeat: no-repeat;
-    background-position: center center;
+.contact_info_icon {
+    width: 1em;
+    height: 1em;
     background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 4px;
-    left: 155px;
-    overflow: hidden;
+    vertical-align: middle;
 }
 
 .v20_47 {
