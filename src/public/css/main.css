@@ -15,15 +15,11 @@ li {
     margin-left: -20px;
 }
 
-.v3_0 {
-    /* width: 75em; */
+.blue_bar {
+    width: 94em;
     height: 0.5em;
     background: rgba(42, 174, 231, 1);
-    opacity: 1;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
+    margin-left: -1em;
 }
 
 .name {
