@@ -26,35 +26,29 @@ li {
     overflow: hidden;
 }
 
-.v1_6 {
-    /* width: 197px; */
+.name {
     color: rgba(16, 18, 20, 1);
     position: relative;
-    top: 0.45em;
-    left: 1em;
-    font-weight: 400;
-    font-size: 1.5em;
-    opacity: 1;
+    top: 1em;
+    left: 0.6em;
+    font-size: 24pt;
     text-align: left;
 }
 
-.v27_7 {
-    width: 83px;
+.title {
     color: rgba(42, 174, 230, 1);
     position: relative;
-    top: 0.3em;
+    top: 1.2em;
     left: 1em;
     font-weight: Bold;
-    font-size: 1.6em;
-    opacity: 1;
+    font-size: 16pt;
     text-align: left;
 }
 
 .contact_info_div {
-    height: 8em;
-    opacity: 1;
+    height: 6.9em;
     position: relative;
-    top: 1.5em;
+    top: 3em;
     left: 1.5em;
 }
 
