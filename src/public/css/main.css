@@ -149,63 +149,9 @@ li {
 }
 
 .volunteer_work {
-    height: 7em;
-    opacity: 1;
     position: relative;
     top: 1.5em;
     left: 1.5em;
-}
-
-.v58_0 {
-    width: 16px;
-    height: 16px;
-    background: url("../images/v58_0.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 29px;
-    left: 188px;
-    overflow: hidden;
-}
-
-.v20_11 {
-    width: 144px;
-    color: rgba(0, 0, 0, 1);
-    position: absolute;
-    top: 24px;
-    left: 205px;
-    font-weight: 400;
-    font-size: 11px;
-    opacity: 1;
-    text-align: left;
-}
-
-.v60_0 {
-    width: 16px;
-    height: 16px;
-    background: url("../images/v60_0.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 29px;
-    left: 5px;
-    overflow: hidden;
-}
-
-.v20_8 {
-    width: 107px;
-    color: rgba(0, 0, 0, 1);
-    position: absolute;
-    top: 26px;
-    left: 24px;
-    font-weight: 400;
-    font-size: 11px;
-    opacity: 1;
-    text-align: left;
 }
 
 .passions {
