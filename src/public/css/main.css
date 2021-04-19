@@ -16,10 +16,8 @@ li {
 }
 
 .blue_bar {
-    width: 94em;
     height: 0.5em;
     background: rgba(42, 174, 231, 1);
-    margin-left: -1em;
 }
 
 .name {
@@ -70,20 +68,6 @@ li {
     left: 1.5em;
 }
 
-.v14_6 {
-    width: 335px;
-    height: 22px;
-    background: url("../images/v14_6.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-}
-
 .gray_headings {
     color: rgba(115, 128, 141, 1);
     text-transform: uppercase;
@@ -130,91 +114,25 @@ li {
     left: 1.5em;
 }
 
-.v14_5 {
-    width: 335px;
-    height: 18px;
-    background: url("../images/v14_5.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-}
-
 .volunteer_work {
+    height: 8em;
     position: relative;
     top: 1.5em;
     left: 1.5em;
 }
 
 .passions {
-    height: 7em;
+    height: 8em;
     opacity: 1;
     position: relative;
     top: 1.5em;
     left: 1.5em;
 }
 
-.v27_17 {
-    width: 16px;
-    height: 16px;
-    background: url("../images/v27_17.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 29px;
-    left: 0px;
-    overflow: hidden;
-}
-
-.v27_16 {
-    width: 144px;
-    color: rgba(0, 0, 0, 1);
-    position: absolute;
-    top: 24px;
-    left: 205px;
-    font-weight: 400;
-    font-size: 11px;
-    opacity: 1;
-    text-align: left;
-}
-
-.v27_18 {
-    width: 16px;
-    height: 16px;
-    background: url("../images/v27_18.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 29px;
-    left: 183px;
-    overflow: hidden;
-}
-
-.v27_15 {
-    width: 131px;
-    color: rgba(0, 0, 0, 1);
-    position: absolute;
-    top: 26px;
-    left: 23px;
-    font-weight: 400;
-    font-size: 11px;
-    opacity: 1;
-    text-align: left;
-}
-
-.v1_5 {
-    opacity: 1;
+.avatar {
     position: relative;
-    top: 0.45em;
-    left: 1.5em;
+    top: 0.5em;
+    left: 5em;
     border-radius: 50%;
 }
 
@@ -224,20 +142,6 @@ li {
     position: relative;
     top: 1.5em;
     left: 1.5em;
-}
-
-.v14_7 {
-    width: 139px;
-    height: 18px;
-    background: url("../images/v14_7.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: relative;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
 }
 
 .skills {
