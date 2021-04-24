@@ -134,6 +134,8 @@ li {
     top: 0.5em;
     left: 5em;
     border-radius: 50%;
+    max-width: 70%;
+    height: auto;
 }
 
 .summary {
